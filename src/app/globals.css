@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&family=Roboto+Condensed:wght@300&display=swap');
+
+body {
+  background-color: black;
+  font-family: 'Katibeh', serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+*{
+  font-family: 'Katibeh', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+html{
+  font-family: 'Katibeh', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
